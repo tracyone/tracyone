@@ -1,5 +1,7 @@
 ### Hello, World
 
+[![Github](https://img.shields.io/github/followers/tracyone?label=Follow&style=social)](https://github.com/tracyone)
+
 <!-- [![GitHub Action
  Stats](https://github-readme-stats.vercel.app/api?username=tracyone&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/mudox/g ithub-readme-stats)
 
