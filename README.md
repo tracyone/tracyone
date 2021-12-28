@@ -21,6 +21,3 @@
  width=342px>
  </p>
 
-<p align="center">
-  <a href="https://metrics.lecoq.io/about/tracyone"><img src="https://github.com/tracyone/tracyone/blob/main/github-metrics.svg" alt="Metrics"></a>
-</p>
